@@ -12,7 +12,7 @@
  
  <h3 align="left">Hacking Profiles:</h3>
  <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" alt=HackTheBox style="max-width: 256px; display: inline"/>
-<img src="https://tryhackme.com/badge/402599" alt="TryHackMe" style="max-width: 256px; display: inline">
+<img src="https://tryhackme-badges.s3.amazonaws.com/DarthSain.png" alt="TryHackMe" style="max-width: 256px; display: inline">
 </p>
  <h3 align="left">Blog:</h3>
  <a href="https://hussainlotia.ml/blog/"> My Blog</a>
