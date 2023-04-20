@@ -15,7 +15,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarthSain.png" alt="TryHackMe" style="max-width: 256px; display: inline">
 </p>
  <h3 align="left">Blog:</h3>
- <a href="https://hussainlotia.ml/blog/"> My Blog</a>
+ <a href="https://sainsec.tech/blog/"> My Blog</a>
  
  
  <h3 align="left">Social Profiles:</h3>
